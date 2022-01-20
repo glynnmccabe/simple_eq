@@ -1,3 +1,11 @@
 **/Builds
 **/JuceLibraryCode
+**/JUCE
+**/cmake-build
+**/.vscode
+**/CMakeFiles
+CMakeCache.txt
+**/build
+cmake_install.cmake
+Makefile
 
